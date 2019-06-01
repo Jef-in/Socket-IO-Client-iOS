@@ -1,0 +1,6 @@
+framework module Pods_SocketClientTests {
+  umbrella header "Pods-SocketClientTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
